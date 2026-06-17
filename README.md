@@ -270,13 +270,3 @@ A principal justificativa para a transição arquitetural é a **correspondênci
 
 ---
 
-## Referências
-
-- DORA. *Accelerate State of DevOps Report*, 2023. https://dora.dev/research/
-- Winters, T.; Manshreck, T.; Wright, H. *Software Engineering at Google*. O'Reilly Media, 2020.
-- Skelton, M.; Pais, M. *Team Topologies*. IT Revolution Press, 2019.
-- Mezzalira, L. *Building Micro-Frontends*. O'Reilly Media, 2021.
-- Next.js Documentation — Rendering Strategies. https://nextjs.org/docs/app/building-your-application/rendering
-- Webpack Module Federation. https://webpack.js.org/concepts/module-federation/
-- Google. *Core Web Vitals and SEO*, 2023. https://developers.google.com/search/docs/appearance/core-web-vitals
-- Rakuten Case Study — Web Performance. https://web.dev/case-studies/rakuten
